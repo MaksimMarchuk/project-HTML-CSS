@@ -1,0 +1,8 @@
+:root {
+    --orange: #FF6E30;
+    --bg: #1E252B;
+}
+
+body {
+    background-color: var(--bg);
+}
