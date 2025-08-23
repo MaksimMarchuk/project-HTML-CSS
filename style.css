@@ -6,3 +6,63 @@
 body {
     background-color: var(--bg);
 }
+.navigation {
+    display: flex;
+}
+
+.nav-text {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF8C;
+}
+
+.logo-text {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 22px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFFE5;
+}   
+
+.nav-button{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    background-color: #FF6E30;
+    width: 118px;
+    height: 48px;
+}
+
+.footer-main-text {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 50px;
+    leading-trim: NONE;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #FFFFFFE5;
+}
+
+.footer-nextmain-text {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #FFFFFF8C;
+}
+
+.header-menu {
+    display: flex;
+    align-items: flex-end;
+}
