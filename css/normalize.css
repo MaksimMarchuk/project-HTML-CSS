@@ -1,0 +1,10 @@
+body {
+    background-color: var(--bg);
+}
+
+:root {
+    --button: #FF6E30;
+    --bg: #1E252B;
+    --search-bg: #283036;
+}
+

@@ -1,0 +1,117 @@
+.navigation {
+    margin-left: 117.26px;
+    margin-right: 117.26px;
+}
+
+.nav-text {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF8C;
+}
+
+.logo-text {
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFFE5;
+} 
+
+.nav-button{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    background-color: #FF6E30;
+    width: 118px;
+    height: 48px;
+    border: none;
+    border-radius: 8px;
+}
+
+.footer-main-text {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 140%;
+    letter-spacing: 0%;
+    color: #FFFFFFE5;
+    width: 600px;
+    height: 140px;
+}
+
+.header-img-mini {
+    height: 58px;
+    width: 58px;
+}
+
+.footer-nextmain-text {
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #FFFFFF8C;
+}
+
+.header-main-content {
+    flex-direction: column;
+    margin-left: 108px;
+    align-self: flex-end;
+}
+
+.header-menu {
+    display: flex;
+}
+
+.nav-menu {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) repeat(2, 0.5fr) 0.1fr repeat(2, 0.5fr) 1fr 0.7fr;
+    grid-template-rows: 0.3fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.placeholder-text {
+    width: 410px;
+    height: 58px;
+    background-color: var(--search-bg);
+    border: none;
+    outline: none;
+}
+
+.header-search {
+    display: flex;
+    align-items: center;
+    height: 64px;
+    width: 497.65887451171875px;
+    background-color: var(--search-bg);
+    border-radius: 15px;
+}
+
+.header-search-img {
+    height: 24px;
+    width: 24.08026695251465px;
+}
+
+.header-search-button {
+    height: 48px;
+    width: 130.43478393554688px;
+    border-radius: 8px;
+    background-color: var(--button);
+    border: none;
+}
+
+.header-content {
+    height: 700px;
+}
+
+.header-main-img {
+    justify-content: flex-start;
+}
