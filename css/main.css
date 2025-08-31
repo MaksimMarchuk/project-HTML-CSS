@@ -154,7 +154,7 @@ li {
 .load-button {
     text-align: center;
     border: 10px;
-    border-color: #FFFFFF1A;
+    border-color: #fffffff6;
     border-radius: 8px;
     color: var(--button);
     font-family: Poppins;
@@ -167,6 +167,7 @@ li {
     padding-left: 50px;
     padding-right: 50px;
     margin-bottom: 200px;
+    margin-top: 150px;
 }
 
 a {
@@ -223,6 +224,7 @@ a {
     height: 203px;
     border-radius: 25px;
     padding-top: 40px;
+    padding-bottom: 200px;
 }
 
 .main-plase-parts-two{
@@ -266,7 +268,7 @@ a {
 .tools-selector-one {
     display: flex;
     flex-direction: column;
-    margin-left: 108px;
+    margin-left: 200px;
     margin-top: 200px;
     row-gap: 30px;
     width: 427px;
@@ -275,11 +277,13 @@ a {
 .tools-selector-two {
     display: flex;
     justify-content: flex-end;
+    margin-right: 200px;
 }
 
 .tools-selector-thre {
     display: flex;
     justify-content: flex-end;
+    margin-right: 200px;
 }
 
 .tools-main-text {
@@ -364,7 +368,8 @@ a {
 }
 
 .testimonial-img {
-    margin-left: 250px;
+    margin-left: 300px;
+    margin-bottom: 100px;
 }
 
 .join {
